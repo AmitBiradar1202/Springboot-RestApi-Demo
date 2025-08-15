@@ -22,7 +22,7 @@ It demonstrates how to implement **CRUD operations** with Spring Boot, RESTful p
 - **Spring Web**
 - **Spring Data JPA**
 - **Jakarta Validation API**
-- **H2 Database** (can be switched to MySQL)
+- **H2 Database** (can be switched to PostgresSql)
 - **Maven**
 
 ---
@@ -38,5 +38,6 @@ It demonstrates how to implement **CRUD operations** with Spring Boot, RESTful p
 | DELETE | `/api/students/{id}`          | Delete a student by ID  | - |
 
 ---
+
 
 
